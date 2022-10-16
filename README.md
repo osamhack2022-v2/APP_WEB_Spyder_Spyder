@@ -1,7 +1,6 @@
 # 촘촘한 보안망, Spyder
-![Logo](https://logosbynick.com/wp-content/uploads/2018/03/final-logo-example.png)
 
-
+<img width="244" alt="image" src="https://user-images.githubusercontent.com/60809681/196021756-80256d4a-08dc-4b0f-a035-0b539141f8f0.png">
 
 ## 프로젝트 소개
 - Spyder는 기존 국방모바일보안 앱을 보완한 보안 솔루션으로, 카메라 차단 기능뿐만 아니라, 휴대폰 안에 저장된 사진들을 검사하여 국방보안에 위험요소가 있는지 분석해줍니다. 처음 입대하거나 휴가에서 복귀하는 장병들은 Spyder을 활성화 시킴으로서 카메라 기능을 차단하고 휴대폰 안에 저장된 사진들을 빠르게 분석해 군 기밀 유출을 차단합니다.
