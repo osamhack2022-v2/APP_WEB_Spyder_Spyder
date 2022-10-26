@@ -50,10 +50,10 @@
 
 ## :computer: 기술 스택 (Technique Used) 
 ### WEB(Back-end)
- - <img width="100" alt="image_python" src="https://github.com/newbie10001/zoomClone/blob/e7f4ec0a22e3bb15a0fff473cf27ac63a4bc2dca/img/python.png"/> 
+ - <img width="100" alt="image_python" src="https://user-images.githubusercontent.com/81582559/198014024-c03350ba-2b5a-4a12-a8f3-3f62a55d128f.png"/> 
      
-     - Framework:    <img width="100" alt="image_Django" src="https://github.com/newbie10001/zoomClone/blob/e7f4ec0a22e3bb15a0fff473cf27ac63a4bc2dca/img/django-_ogo.png"/>
- - <img width="40" alt="image_aws EC2" src="https://github.com/newbie10001/zoomClone/blob/49029d63a2fcbafb7344881408a7faedad4424e5/img/aws%20EC2.png"/> AWS EC2
+     - Framework:    <img width="100" alt="image_Django" src="https://user-images.githubusercontent.com/81582559/198014308-01ba2f85-fcc2-4cca-afbb-b499528a92ed.png"/>
+ - <img width="40" alt="image_aws EC2" src="https://user-images.githubusercontent.com/81582559/198014468-f9f456b7-99c1-461a-a0ad-be70699db730.png"/> AWS EC2
  
 ### WEB(Front-end)
  - <img width="35" alt="image_html" src="https://user-images.githubusercontent.com/81582559/198014244-a5d2ce2b-131f-4ce4-a55e-121833d33d9f.png"/> HTML,<img width="25" alt="image_css" src="https://user-images.githubusercontent.com/81582559/198014364-be4745d7-ed32-4af1-a231-789f38ae68e1.png"/> CSS, <img width="35" alt="image_js" src="https://user-images.githubusercontent.com/81582559/198014147-177a9e5d-354f-4a6f-9105-0b25a165019f.png" /> JS
