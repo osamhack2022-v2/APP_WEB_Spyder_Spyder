@@ -44,9 +44,9 @@
 ## :earth_asia: 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 
 
-* <img width="50" height="50" alt="image_es6" src="https://github.com/newbie10001/zoomClone/blob/24f9b04b975873d6fc0e981655f82116427922de/img/es6.jpg" /> ECMAScript 6 지원 브라우저 사용
-* <img width="50" alt="image_chrome" src="https://github.com/newbie10001/zoomClone/blob/de54e4f293ee9c72574ce6ac2c7cb54266ef906e/img/chrome.png" />Google Chrome 버젼 77 이상 (권장)
-* <img width="50" alt="image_andriod_Oreo" src="https://github.com/newbie10001/zoomClone/blob/e7f4ec0a22e3bb15a0fff473cf27ac63a4bc2dca/img/andriod_Oreo.png" /> Android 버전 8.0 (Oreo) 이상 (권장)
+* <img width="50" height="50" alt="image_es6" src="https://user-images.githubusercontent.com/81582559/198014278-87725be1-b3cb-4d23-b097-e22d90e2bcab.jpg" /> ECMAScript 6 지원 브라우저 사용
+* <img width="50" alt="image_chrome" src="https://user-images.githubusercontent.com/81582559/198014428-799a5490-0fb3-43e2-a871-e8b56679fc8a.png" />Google Chrome 버젼 77 이상 (권장)
+* <img width="50" alt="image_andriod_Oreo" src="https://user-images.githubusercontent.com/81582559/198014556-9f54c0cf-acca-4ffb-a3a0-a93aafae5afb.png" /> Android 버전 8.0 (Oreo) 이상 (권장)
 
 ## :computer: 기술 스택 (Technique Used) 
 ### WEB(Back-end)
@@ -56,11 +56,11 @@
  - <img width="40" alt="image_aws EC2" src="https://github.com/newbie10001/zoomClone/blob/49029d63a2fcbafb7344881408a7faedad4424e5/img/aws%20EC2.png"/> AWS EC2
  
 ### WEB(Front-end)
- - <img width="35" alt="image_html" src="https://github.com/newbie10001/zoomClone/blob/e7f4ec0a22e3bb15a0fff473cf27ac63a4bc2dca/img/HTML.png"/> HTML,<img width="25" alt="image_css" src="https://github.com/newbie10001/zoomClone/blob/b6dc316efac472f6a657369c3d09c2eff07a9649/img/css.png"/> CSS, <img width="35" alt="image_js" src="https://github.com/newbie10001/zoomClone/blob/824f915c61987210c7a2a37caa69f24cf9dc913a/img/js_logo.png" /> JS
+ - <img width="35" alt="image_html" src="https://user-images.githubusercontent.com/81582559/198014244-a5d2ce2b-131f-4ce4-a55e-121833d33d9f.png"/> HTML,<img width="25" alt="image_css" src="https://user-images.githubusercontent.com/81582559/198014364-be4745d7-ed32-4af1-a231-789f38ae68e1.png"/> CSS, <img width="35" alt="image_js" src="https://user-images.githubusercontent.com/81582559/198014147-177a9e5d-354f-4a6f-9105-0b25a165019f.png" /> JS
 
 ### APP
- - <img width="35"  alt="image_java" src="https://github.com/newbie10001/zoomClone/blob/e7f4ec0a22e3bb15a0fff473cf27ac63a4bc2dca/img/java.PNG" /> Java
-     - IDE: <img width="35" alt="image_android_studio" src="https://github.com/newbie10001/zoomClone/blob/e7f4ec0a22e3bb15a0fff473cf27ac63a4bc2dca/img/android_studio.png" /> Android Studio
+ - <img width="35"  alt="image_java" src="https://user-images.githubusercontent.com/81582559/198014214-88a75a96-c77d-4268-986d-aaebea2e579d.PNG" /> Java
+     - IDE: <img width="35" alt="image_android_studio" src="https://user-images.githubusercontent.com/81582559/198014502-36293595-5244-4e96-b057-12aaa74b5895.png" /> Android Studio
 
 ## :inbox_tray: 설치 안내 (Installation Process)
 ```bash
