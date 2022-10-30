@@ -10,7 +10,7 @@
 
 ##  :page_facing_up: 목차
 
- - 1.[기능 설명 및 시연 영상 ](#hammer-기능-설명-및-시연-영상)
+ - 1.[기능 설명 ](#hammer-기능-설명-및-시연-영상)
  - 2.[컴퓨터 구성 / 필수 조건 안내](#earth_asia-컴퓨터-구성--필수-조건-안내-prerequisites)
  - 3.[기술 스택](#computer-기술-스택-technique-used)
  - 4.[설치 안내](#inbox_tray-설치-안내-installation-process)
