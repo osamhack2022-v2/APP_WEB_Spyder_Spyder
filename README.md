@@ -21,15 +21,15 @@
 ## :hammer: 기능 설명 및 시연 영상 
  - APP
      - <img width="800" alt="Screen Shot 2022-10-31 at 1 04 38 AM" src="https://user-images.githubusercontent.com/60809681/198888840-beff93a3-102b-4530-958d-cbdf551ad611.png">
-     - <img width="1445" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
+     - <img width="800" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
 
  - WEB
-     - <img width="1445" alt="Screen Shot 2022-10-31 at 1 07 03 AM" src="https://user-images.githubusercontent.com/60809681/198888980-a42edb4f-ec45-4121-af9a-6817d92ef3c5.png">
-     - <img width="1445" alt="Screen Shot 2022-10-31 at 1 07 29 AM" src="https://user-images.githubusercontent.com/60809681/198889003-8ffd1a74-d95a-4124-b8e3-7b7e06ef84f9.png">
-     - <img width="1446" alt="Screen Shot 2022-10-31 at 1 07 43 AM" src="https://user-images.githubusercontent.com/60809681/198889021-fed51d73-974e-47f6-b8f4-c357da39beb5.png">
-     - <img width="1446" alt="Screen Shot 2022-10-31 at 1 08 02 AM" src="https://user-images.githubusercontent.com/60809681/198889041-07802c67-fa91-439c-a10f-088f382b48b0.png">
-     - 
-
+     - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 03 AM" src="https://user-images.githubusercontent.com/60809681/198888980-a42edb4f-ec45-4121-af9a-6817d92ef3c5.png">
+     - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 29 AM" src="https://user-images.githubusercontent.com/60809681/198889003-8ffd1a74-d95a-4124-b8e3-7b7e06ef84f9.png">
+     - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 43 AM" src="https://user-images.githubusercontent.com/60809681/198889021-fed51d73-974e-47f6-b8f4-c357da39beb5.png">
+     - <img width="800" alt="Screen Shot 2022-10-31 at 1 08 02 AM" src="https://user-images.githubusercontent.com/60809681/198889041-07802c67-fa91-439c-a10f-088f382b48b0.png">
+     - <img width="800" alt="Screen Shot 2022-10-31 at 1 14 40 AM" src="https://user-images.githubusercontent.com/60809681/198889359-fb498d1b-8f71-4278-a21b-597f3f95ae7d.png">
+     - <img width="800" alt="Screen Shot 2022-10-31 at 1 15 01 AM" src="https://user-images.githubusercontent.com/60809681/198889374-b3ecfd9b-73cf-4e03-b580-f54885b161ab.png">
 
 
 
