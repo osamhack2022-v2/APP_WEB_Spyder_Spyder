@@ -41,6 +41,17 @@
 * <img width="30" alt="image_andriod_Oreo" src="https://user-images.githubusercontent.com/81582559/198014556-9f54c0cf-acca-4ffb-a3a0-a93aafae5afb.png" /> Android 버전 8.0 (Oreo) 이상 (권장)
 
 ## :computer: 기술 스택 (Technique Used) 
+
+Below is the specification for technologies used in Spyder:
+
+* [ Infrastructure] - [AWS (Amazon Web Service)] - EC2, S3 (Cloud Storage)
+* [ Database ] - [Postgresql]
+* [ Language ] - Python 3.8 (BackEnd), Html, Javascript, CSS (FrontEnd), Java (App)
+* [ Framework ] - Django (BackEnd), [Bootstrap] (FrontEnd)
+* [ IDE ] - Android Studio (App), Visual Studio Code (Web)
+* [ Open-source Libraries ] - [OpenCV] (for face identification), Django ([rest_framework]) 
+
+
 ### WEB(Back-end)
  - <img width="100" alt="image_python" src="https://user-images.githubusercontent.com/81582559/198014024-c03350ba-2b5a-4a12-a8f3-3f62a55d128f.png"/> 
      
