@@ -55,10 +55,69 @@
      - IDE: <img width="35" alt="image_android_studio" src="https://user-images.githubusercontent.com/81582559/198014502-36293595-5244-4e96-b057-12aaa74b5895.png" /> Android Studio
 
 ## :inbox_tray: 설치 안내 (Installation Process)
-```bash
-$ git clone git주소
-$ yarn or npm install
-$ yarn start or npm run start
+
+Install from git. Download zip file or git clone.
+
+Install python dev and pip3:
+```sh
+$ apt-get install python3-dev
+$ apt-get install python3-pip
+```
+
+For production environment:
+```sh
+$ pip3 install virtualenv
+$ virtualenv envspyder
+```
+
+Enter environment:
+```sh
+$ cd envspyder/bin
+$ source activate
+```
+If virtualenv is successfully activated, the command line should look like (envspyder) ~~~
+
+Spyder requires a number of python libraries to run. Install requirements.txt:
+```sh
+$ pip3 install -r requirements.txt
+```
+
+Install OpenCV Library:
+```sh
+$ brew install ninja pkg-config
+$ wget http://dlib.net/files/dlib-19.2.tar.bz2 -O /tmp/dlib-19.2.tar.bz2
+$ tar xvjf /tmp/dlib-19.2.tar.bz2 -C ./
+$ cd dlib-19.2
+$ mkdir build && cd build
+$ cmake -G Ninja ..
+$ cmake --build . --config Release
+$ cd ../
+$ sudo python setup.py install
+```
+If installing setup.py does not work:
+```sh
+$ brew cask install xquartz
+$ brew install gtk+3 boost
+$ brew install boost-python3
+$ pip3 install face_recognition
+$ pip3 install opencv-python
+```
+
+Migrate Postgres DB:
+```sh
+$ python3 manage.py makemigrations
+$ python3 manage.py migrate
+```
+
+Create superuser for Postgres DB:
+```sh
+$ python3 manage.py createsuperuser
+```
+
+Collect static and Run server (port: 8080):
+```sh
+$ python3 manage.py collectstatic
+$ python3 manage.py runserver 0.0.0.0:8080
 ```
  
 ## :two_men_holding_hands: 팀 정보 (Team Information)
