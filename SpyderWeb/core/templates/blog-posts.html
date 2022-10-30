@@ -1,0 +1,145 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} Blog Posts {% endblock %} 
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+<div class="main-content-container container-fluid px-4">
+
+            <div class="main-content-container container-fluid px-4">
+                <!-- Page Header -->
+                <div class="page-header row no-gutters py-4">
+                  <div class="col-12 col-sm-4 text-center text-sm-left mb-0">
+                    <span class="text-uppercase page-subtitle">Spyder App Security</span>
+                    <h3 class="page-title">업로드 사진</h3>
+                  </div>
+                </div>
+                <!-- End Page Header -->
+                <div class="row">
+                  <div class="col-lg-3 col-md-6 col-sm-12 mb-4" id="image0">
+                    <div class="card card-small card-post card-post--1">
+                      <div class="card-post__image" style="background-image: url('/static/assets/img/content-management/0.png');">
+                        <a href="#" class="card-post__category badge badge-pill badge-dark">AI Detected</a>
+                        <div class="card-post__author d-flex">
+                          <a href="#" class="card-post__author-avatar card-post__author-avatar--small" style="background-image: url('/static/assets/img/avatars/0.png');">Written by Anna Kunis</a>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a class="text-fiord-blue" href="#">이상행위 탐지됨</a>
+                        </h5>
+                        <p class="card-text d-inline-block mb-3">Spyder 내부의 AI 알고리즘에 의해 이상행위가 의심되는 사진입니다. <p>용사 : 김민수</p></p>
+                        <span class="text-muted">2022.10.29</span>
+                        <button type="button" class="btn btn-default" onclick="getElementById('image0').innerHTML=null" onClick="upload()">확인</button>
+                        <button type="button" class="btn btn-danger" onclick="getElementById('image0').innerHTML=null" onClick="deleted()">거절</button>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6 col-sm-12 mb-4" id="image1">
+                    <div class="card card-small card-post card-post--1">
+                      <div class="card-post__image" style="background-image: url('/static/assets/img/content-management/1.png');">
+                        <a href="#" class="card-post__category badge badge-pill badge-dark">AI Detected</a>
+                        <div class="card-post__author d-flex">
+                          <a href="#" class="card-post__author-avatar card-post__author-avatar--small" style="background-image: url('/static/assets/img/avatars/0.png');">Written by James Jamerson</a>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a class="text-fiord-blue" href="#">이상행위 탐지됨</a>
+                        </h5>
+                        <p class="card-text d-inline-block mb-3">Spyder 내부의 AI 알고리즘에 의해 이상행위가 의심되는 사진입니다. <p>용사 : 조윤형</p></p>
+                        <span class="text-muted">2022.10.29</span>s
+                        <button type="button" class="btn btn-default" onclick="getElementById('image1').innerHTML=null" onClick="upload()">확인</button>
+                        <button type="button" class="btn btn-danger" onclick="getElementById('image1').innerHTML=null" onClick="deleted()">거절</button>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6 col-sm-12 mb-4" id="image2">
+                    <div class="card card-small card-post card-post--1">
+                      <div class="card-post__image" style="background-image: url('/static/assets/img/content-management/3.jpeg');">
+                        <a href="#" class="card-post__category badge badge-pill badge-primary">Clean</a>
+                        <div class="card-post__author d-flex">
+                          <a href="#" class="card-post__author-avatar card-post__author-avatar--small" style="background-image: url('/static/assets/img/avatars/0.png');">Written by Jimmy Jackson</a>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a class="text-fiord-blue" href="#">정상 사진으로 판단됨</a>
+                        </h5>
+                        <p class="card-text d-inline-block mb-3">Spyder 내부의 AI 알고리즘에 의해 정상으로 판단된 사진입니다. <p>용사 : 조용인</p></p>
+                        <span class="text-muted">2022.10.29</span>
+                        <button type="button" class="btn btn-default" onclick="getElementById('image2').innerHTML=null" onClick="upload()">확인</button>
+                        <button type="button" class="btn btn-danger" onclick="getElementById('image2').innerHTML=null" onClick="deleted()">거절</button>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-3 col-md-6 col-sm-12 mb-4" id="image3">
+                    <div class="card card-small card-post card-post--1">
+                      <div class="card-post__image" style="background-image: url('/static/assets/img/content-management/2.jpeg');">
+                        <a href="#" class="card-post__category badge badge-pill badge-dark">AI DETECTED</a>
+                        <div class="card-post__author d-flex">
+                          <a href="#" class="card-post__author-avatar card-post__author-avatar--small" style="background-image: url('/static/assets/img/avatars/0.png');">Written by John James</a>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a class="text-fiord-blue" href="#">이상행위 탐지됨</a>
+                        </h5>
+                        <p class="card-text d-inline-block mb-3">Spyder 내부의 AI 알고리즘에 의해 이상행위가 의심되는 사진입니다. <p>용사 : 김민혁</p></p>
+                        <span class="text-muted">2022.10.29</span>
+                        <button type="button" class="btn btn-default" onclick="getElementById('image3').innerHTML=null" onClick="upload()">확인</button>
+                        <button type="button" class="btn btn-danger" onclick="getElementById('image3').innerHTML=null" onClick="deleted()">거절</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="row">
+                  <div class="col-lg-6 col-sm-12 mb-4" id="image4">
+                    <div class="card card-small card-post card-post--aside card-post--1">
+                      <div class="card-post__image" style="background-image: url('/static/assets/img/content-management/3.png');">
+                        <a href="#" class="card-post__category badge badge-pill badge-dark">AI DETECTED</a>
+                        <div class="card-post__author d-flex">
+                          <a href="#" class="card-post__author-avatar card-post__author-avatar--small" style="background-image: url('/static/assets/img/avatars/0.png');">Written by Anna Ken</a>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a class="text-fiord-blue" href="#">이상행위 탐지됨</a>
+                        </h5>
+                        <p class="card-text d-inline-block mb-3">Spyder 내부의 AI 알고리즘에 의해 이상행위가 의심되는 사진입니다. <p>용사 : 신은수</p></p>
+                        <span class="text-muted">2022.10.29</span>
+                        <button type="button" class="btn btn-default" onclick="getElementById('image4').innerHTML=null" onClick="upload()">확인</button>
+                        <button type="button" class="btn btn-danger" onclick="getElementById('image4').innerHTML=null" onClick="deleted()">거절</button>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6 col-sm-12 mb-4" id="image5">
+                    <div class="card card-small card-post card-post--aside card-post--1">
+                      <div class="card-post__image" style="background-image: url('/static/assets/img/content-management/6example.png');">
+                        <a href="#" class="card-post__category badge badge-pill badge-primary">Clean</a>
+                        <div class="card-post__author d-flex">
+                          <a href="#" class="card-post__author-avatar card-post__author-avatar--small" style="background-image: url('/static/assets/img/avatars/0.png');">Written by Jamie James</a>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <h5 class="card-title">
+                          <a class="text-fiord-blue" href="#">정상 사진으로 판단됨</a>
+                        </h5>
+                        <p class="card-text d-inline-block mb-3">Spyder 내부의 AI 알고리즘에 의해 정상으로 판단된 사진입니다. <p>용사 : 조용인</p></p>
+                        <span class="text-muted">2022.10.29</span>
+                        <button type="button" class="btn btn-default" onclick="getElementById('image5').innerHTML=null" onClick="upload()">확인</button>
+                        <button type="button" class="btn btn-danger" onclick="getElementById('image5').innerHTML=null" onClick="deleted()">거절</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+            </div>
+    
+    
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}

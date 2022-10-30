@@ -1,0 +1,105 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} New post {% endblock %} 
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/quill/1.3.6/quill.snow.css"> </head>
+
+{% endblock stylesheets %}
+
+{% block content %}
+
+    <div class="main-content-container container-fluid px-4">
+        <!-- Page Header -->
+        <div class="page-header row no-gutters py-4">
+          <div class="col-12 col-sm-4 text-center text-sm-left mb-0">
+            <span class="text-uppercase page-subtitle">Spyder App Security</span>
+            <h3 class="page-title">GPS 범위 등록</h3>
+          </div>
+        </div>
+        <!-- End Page Header -->
+        <div class="row">
+          <div class="col-lg-9 col-md-12">
+            <!-- Add New Post Form -->
+            <div class="card card-small mb-3">
+              <div class="card-body">
+                <form class="add-new-post">
+                  <input class="form-control form-control-lg mb-3" type="text" placeholder="GPS 검색">
+                  <table class="table table-dark mb-0">
+                    <thead class="thead-dark">
+                      <tr>
+                        <th scope="col" class="border-bottom-0">#</th>
+                        <th scope="col" class="border-bottom-0">이름</th>
+                        <th scope="col" class="border-bottom-0">위도</th>
+                        <th scope="col" class="border-bottom-0">경도</th>
+                        <th scope="col" class="border-bottom-0">등록자</th>
+                        <th scope="col" class="border-bottom-0">등록 시간</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td>1</td>
+                        <td>17사단 507여단 2대대 지역</td>
+                        <td>37.563216232190754 ~ 37.566819703831484</td>
+                        <td>126.97058884948852 ~ 126.97868621727491</td>
+                        <td>조용인       인사행정관</td>
+                        <td>2022-10-24 20:13:52</td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </form>
+              </div>
+            </div>
+            <!-- / Add New Post Form -->
+          </div>
+          <div class="col-lg-3 col-md-12">
+            
+            <!-- Post Overview -->
+            <div class='card card-small mb-3'>
+              <div class="card-header border-bottom">
+                <h6 class="m-0">Categories</h6>
+              </div>
+              <div class='card-body p-0'>
+                <ul class="list-group list-group-flush">
+                  <li class="list-group-item px-3 pb-2">
+                    <div class="custom-control custom-checkbox mb-1">
+                      <input type="checkbox" class="custom-control-input" id="category1" checked>
+                      <label class="custom-control-label" for="category1">1급 보안 구역</label>
+                    </div>
+                    <div class="custom-control custom-checkbox mb-1">
+                      <input type="checkbox" class="custom-control-input" id="category2" checked>
+                      <label class="custom-control-label" for="category2">2급 보안 구역</label>
+                    </div>
+                    <div class="custom-control custom-checkbox mb-1">
+                      <input type="checkbox" class="custom-control-input" id="category3">
+                      <label class="custom-control-label" for="category3">3급 보안 구역</label>
+                    </div>
+                  </li>
+                  <li class="list-group-item d-flex px-3">
+                    <div class="input-group">
+                      <input type="text" class="form-control" placeholder="New category" aria-label="Add new category" aria-describedby="basic-addon2">
+                      <div class="input-group-append">
+                        <button class="btn btn-white px-2" type="button">
+                          <i class="material-icons">add</i>
+                        </button>
+                      </div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <!-- / Post Overview -->
+          </div>
+        </div>
+    </div>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/quill/1.3.6/quill.min.js"></script>
+
+{% endblock javascripts %}

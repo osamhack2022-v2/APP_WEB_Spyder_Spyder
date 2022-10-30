@@ -1,0 +1,209 @@
+{% extends "layouts/base.html" %}
+
+{% block title %} UI Tables {% endblock %} 
+
+<!-- Specific Page CSS goes HERE  -->
+{% block stylesheets %}{% endblock stylesheets %}
+
+{% block content %}
+
+    <div class="main-content-container container-fluid px-4">
+        <!-- Page Header -->
+        <div class="page-header row no-gutters py-4">
+          <div class="col-12 col-sm-4 text-center text-sm-left mb-0">
+            <span class="text-uppercase page-subtitle">Overview</span>
+            <h3 class="page-title">용사 관리</h3>
+          </div>
+        </div>
+        <!-- End Page Header -->
+        <!-- Default Light Table -->
+        <div class="row">
+          <div class="col">
+            <div class="card card-small mb-4">
+              <div class="card-header border-bottom">
+                <h6 class="m-0">Active Users (활성화 유저)</h6>
+              </div>
+              <div class="card-body p-0 pb-3 text-center">
+                <table class="table mb-0">
+                  <thead class="bg-light">
+                    <tr>
+                      <th scope="col" class="border-0">#</th>
+                      <th scope="col" class="border-0">이름</th>
+                      <th scope="col" class="border-0">소속부대</th>
+                      <th scope="col" class="border-0">계급</th>
+                      <th scope="col" class="border-0">직책</th>
+                      <th scope="col" class="border-0">군번</th>
+                      <th scope="col" class="border-0">핸드폰 번호</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>1</td>
+                      <td>조용인</td>
+                      <td>17사단 507여단 2대대 연수구지역대</td>
+                      <td>상병</td>
+                      <td>인사행정병</td>
+                      <td>21-71904874</td>
+                      <td>010-2389-2229</td>
+                    </tr>
+                    <tr>
+                      <td>2</td>
+                      <td>김민수</td>
+                      <td>17사단 507여단 2대대 3중대</td>
+                      <td>대위</td>
+                      <td>3중대장</td>
+                      <td>15-16571</td>
+                      <td>010-4829-5811</td>
+                    </tr>
+                    <tr>
+                      <td>3</td>
+                      <td>박진우</td>
+                      <td>17사단 507여단 2대대 8중대</td>
+                      <td>일병</td>
+                      <td>무기관리병</td>
+                      <td>21-71902031</td>
+                      <td>010-1192-5822</td>
+                    </tr>
+                    <tr>
+                      <td>4</td>
+                      <td>김기범</td>
+                      <td>17사단 507여단 2대대 1중대</td>
+                      <td>병장</td>
+                      <td>초병</td>
+                      <td>21-71904032</td>
+                      <td>010-9957-2834</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- End Default Light Table -->
+        <!-- Default Dark Table -->
+        <div class="row">
+          <div class="col">
+            <div class="card card-small overflow-hidden mb-4">
+              <div class="card-header bg-dark">
+                <h6 class="m-0 text-white">Partial Inactive Users in 24hr (앱이 꺼져있었던 유저)</h6>
+              </div>
+              <div class="card-body p-0 pb-3 bg-dark text-center">
+                <table class="table table-dark mb-0">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col" class="border-bottom-0">#</th>
+                      <th scope="col" class="border-bottom-0">이름</th>
+                      <th scope="col" class="border-bottom-0">소속부대</th>
+                      <th scope="col" class="border-bottom-0">계급</th>
+                      <th scope="col" class="border-bottom-0">직책</th>
+                      <th scope="col" class="border-bottom-0">군번</th>
+                      <th scope="col" class="border-bottom-0">핸드폰 번호</th>
+                      <th scope="col" class="border-bottom-0">접속 끊긴 시간</th>
+                      <th scope="col" class="border-bottom-0">접속 복구 시간</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>1</td>
+                      <td>조윤형</td>
+                      <td>17사단 507여단 2대대 3중대</td>
+                      <td>일병</td>
+                      <td>상황병</td>
+                      <td>22-71909932</td>
+                      <td>010-4883-2938</td>
+                      <td>2022-10-27 19:00:00</td>
+                      <td>2022-10-27 19:05:00</td>
+                    </tr>
+                    <tr>
+                      <td>2</td>
+                      <td>서강준</td>
+                      <td>17사단 507여단 2대대 10중대</td>
+                      <td>중사</td>
+                      <td>소대장</td>
+                      <td>00-529492</td>
+                      <td>010-5822-5994</td>
+                      <td>2022-10-28 11:34:22</td>
+                      <td>2022-10-28 11:40:15</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- End Default Dark Table -->
+        <!-- Default Dark Table -->
+        <div class="row">
+          <div class="col">
+            <div class="card card-small overflow-hidden mb-4">
+              <div class="card-header bg-dark">
+                <h6 class="m-0 text-white">Inactive Users (앱이 꺼져있는 유저)</h6>
+              </div>
+              <div class="card-body p-0 pb-3 bg-dark text-center">
+                <table class="table table-dark mb-0">
+                  <thead class="thead-dark">
+                    <tr>
+                      <th scope="col" class="border-bottom-0">#</th>
+                      <th scope="col" class="border-bottom-0">이름</th>
+                      <th scope="col" class="border-bottom-0">소속부대</th>
+                      <th scope="col" class="border-bottom-0">계급</th>
+                      <th scope="col" class="border-bottom-0">직책</th>
+                      <th scope="col" class="border-bottom-0">군번</th>
+                      <th scope="col" class="border-bottom-0">핸드폰 번호</th>
+                      <th scope="col" class="border-bottom-0">접속 끊긴 시간</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>1</td>
+                      <td>김민혁</td>
+                      <td>17사단 507여단 2대대 1중대</td>
+                      <td>상병</td>
+                      <td>초병</td>
+                      <td>22-71905821</td>
+                      <td>010-5824-3990</td>
+                      <td>2022-10-27 20:00:00</td>
+                    </tr>
+                    <tr>
+                      <td>2</td>
+                      <td>신은수</td>
+                      <td>17사단 507여단 2대대 8중대</td>
+                      <td>중사</td>
+                      <td>소대장</td>
+                      <td>00-529953</td>
+                      <td>010-9898-3528</td>
+                      <td>2022-10-28 11:34:22</td>
+                    </tr>
+                    <tr>
+                      <td>3</td>
+                      <td>안형준</td>
+                      <td>17사단 507여단 2대대 5중대</td>
+                      <td>병장</td>
+                      <td>행정병</td>
+                      <td>21-71902044</td>
+                      <td>010-5733-2999</td>
+                      <td>2022-10-28 03:42:19</td>
+                    </tr>
+                    <tr>
+                      <td>4</td>
+                      <td>오승수</td>
+                      <td>17사단 507여단 2대대 8중대</td>
+                      <td>일병</td>
+                      <td>무기관리병</td>
+                      <td>22-71906883</td>
+                      <td>010-2857-2447</td>
+                      <td>2022-10-29 01:44:08</td>
+                    </tr>
+                  </tbody>
+                </table>
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- End Default Dark Table -->
+    </div>
+
+{% endblock content %}
+
+<!-- Specific Page JS goes HERE  -->
+{% block javascripts %}{% endblock javascripts %}
