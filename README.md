@@ -20,25 +20,18 @@
 
 ## :hammer: 기능 설명 및 시연 영상 
  - APP
-     - GPS 강제 ON
-     - 부대 GPS 내에서 찍은 사진 감지
-     - 서버 업로드 및 사진 삭제
-     - 확인된 사진 서버에서 다운로드
      - <img width="800" alt="Screen Shot 2022-10-31 at 1 04 38 AM" src="https://user-images.githubusercontent.com/60809681/198888840-beff93a3-102b-4530-958d-cbdf551ad611.png">
-
+     - <img width="1445" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
 
  - WEB
-     - 관리자 로그인
-     - 부대 모바일 기기 리스트
-     - APP on/off 체크 및 기록
-     - GPS 구간 설정
-     - 지정된 구역에서 찍은 사진 서버에서 다운로드
-     - OpenCV 이용한 ML 무기 감지
-     - 앱이 설치된 단말기 감시 기능
-     - 간부의 수동 체크
-     - 사진 파일 원상 복구 및 서버 업로드
-     - 앱 강제 종료 감시 기능
-     - 위치정보에 위반되는 사진 모니터링 기능
+     - <img width="1445" alt="Screen Shot 2022-10-31 at 1 07 03 AM" src="https://user-images.githubusercontent.com/60809681/198888980-a42edb4f-ec45-4121-af9a-6817d92ef3c5.png">
+     - <img width="1445" alt="Screen Shot 2022-10-31 at 1 07 29 AM" src="https://user-images.githubusercontent.com/60809681/198889003-8ffd1a74-d95a-4124-b8e3-7b7e06ef84f9.png">
+     - <img width="1446" alt="Screen Shot 2022-10-31 at 1 07 43 AM" src="https://user-images.githubusercontent.com/60809681/198889021-fed51d73-974e-47f6-b8f4-c357da39beb5.png">
+     - <img width="1446" alt="Screen Shot 2022-10-31 at 1 08 02 AM" src="https://user-images.githubusercontent.com/60809681/198889041-07802c67-fa91-439c-a10f-088f382b48b0.png">
+     - 
+
+
+
 
 ## :earth_asia: 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 
