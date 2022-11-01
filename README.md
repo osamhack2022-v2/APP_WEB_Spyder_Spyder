@@ -1,6 +1,6 @@
 <h1 align="center"> 촘촘한 보안망, Spyder <h1>
 <p align="center">
-![Spyder_Gif_AdobeExpress](https://user-images.githubusercontent.com/60809681/199346362-5bab8455-6d2c-479b-81a1-49fbe804463f.gif)
+![Spyder_Gif_AdobeExpress](https://user-images.githubusercontent.com/60809681/199347082-f33599b5-4c8b-4dde-83b3-b513b183b834.gif)
 </p>
 
 ## 프로젝트 소개
