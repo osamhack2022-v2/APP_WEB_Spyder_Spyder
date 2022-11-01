@@ -59,12 +59,12 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
  
     <img width="250" alt="Screen Shot 2022-11-02 at 7 41 08 AM" src="https://user-images.githubusercontent.com/60809681/199355801-357dc15a-89b1-4728-a0c1-56cd71cf34f9.png">
 
- 
-
-     - ###App 기능들
+     - ### App 기능들
     <img width="800" alt="Screen Shot 2022-10-31 at 1 04 38 AM" src="https://user-images.githubusercontent.com/60809681/198888840-beff93a3-102b-4530-958d-cbdf551ad611.png">
     <img width="800" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
 
+ 
+ 
  - ## WEB
      - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 03 AM" src="https://user-images.githubusercontent.com/60809681/198888980-a42edb4f-ec45-4121-af9a-6817d92ef3c5.png">
      - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 29 AM" src="https://user-images.githubusercontent.com/60809681/198889003-8ffd1a74-d95a-4124-b8e3-7b7e06ef84f9.png">
