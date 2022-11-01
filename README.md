@@ -1,4 +1,5 @@
 <h1 align="center"> 촘촘한 보안망, Spyder <h1>
+ 
 <p align="center">
 ![gif](https://user-images.githubusercontent.com/60809681/199347082-f33599b5-4c8b-4dde-83b3-b513b183b834.gif)
 </p>
@@ -8,7 +9,7 @@
 
  - 1.[개요](개요-Abstract)
  - 2.[소개](소개-Introduction)
- - 3.[시연 영상]
+ - 3.[시연 영상](시연-영상)
  - 4.[기능 설명](#hammer-기능-설명)
  - 5.[컴퓨터 구성 / 필수 조건 안내](#earth_asia-컴퓨터-구성--필수-조건-안내-prerequisites)
  - 6.[기술 스택](#computer-기술-스택-technique-used)
@@ -45,8 +46,28 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
  
 ## :hammer: 기능 설명 
  - ## APP
-     - <img width="800" alt="Screen Shot 2022-10-31 at 1 04 38 AM" src="https://user-images.githubusercontent.com/60809681/198888840-beff93a3-102b-4530-958d-cbdf551ad611.png">
-     - <img width="800" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
+     - ### Step by Step
+     - APP 첫 화면 - 앱을 설치한 날짜를 알려주는 문구와 간부의 확인을 얻은 사진을 서버에서 다운로드 받을 수 있는 버튼, 앱을 활성화 하고 비활성화 하는 스위치, 그리고 기기의 ID를 보여주는 문구 등이 있습니다. 
+ 
+    <img width="250" alt="Screen Shot 2022-11-02 at 7 25 49 AM" src="https://user-images.githubusercontent.com/60809681/199353739-f4351837-ae8a-40bb-84dd-9e00f6bd2261.png">
+ 
+     - APP GPS 사용 동의 - 스파이더는 사진 및 영상의 gps 정보를 사용하기 때문에 유저 gps를 상시 사용하는 동의를 얻습니다.
+ 
+    <img width="250" alt="Screen Shot 2022-11-02 at 7 32 49 AM" src="https://user-images.githubusercontent.com/60809681/199354585-c77830b6-437a-4b1c-a181-998172f060c4.png">
+ 
+     - APP 활성화 - 장병들은 부대 안에 들어가는 순간 스위치를 활성화 시킵니다. 앱의 활성화는 간부도 즉시 웹 알람으로 확인이 가능하며, 스파이더를 활성화 하는 순간, 장병의 모바일 기기 안에 저장된 사진들은 사진의 gps 정보를 불러와 보안구역 내에서 찍은 사진들을 서버에 업로드 시키고 기기에서는 삭제됩니다. 이는 앱의 활성화 된 상태에서 찍힌 모든 사진과 비디오에 적용됩니다.
+ 
+    <img width="250" alt="Screen Shot 2022-11-02 at 7 36 05 AM" src="https://user-images.githubusercontent.com/60809681/199354989-e11e57cd-120c-4cb0-8c6b-168149bca870.png">
+   
+     - APP 비활성화 - 비활성화 하는 즉시 간부의 웹으로 확인이 가능합니다.
+ 
+    <img width="422" alt="Screen Shot 2022-11-02 at 7 41 08 AM" src="https://user-images.githubusercontent.com/60809681/199355801-357dc15a-89b1-4728-a0c1-56cd71cf34f9.png">
+
+ 
+
+     - ### App 기능들
+    <img width="800" alt="Screen Shot 2022-10-31 at 1 04 38 AM" src="https://user-images.githubusercontent.com/60809681/198888840-beff93a3-102b-4530-958d-cbdf551ad611.png">
+    <img width="800" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
 
  - ## WEB
      - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 03 AM" src="https://user-images.githubusercontent.com/60809681/198888980-a42edb4f-ec45-4121-af9a-6817d92ef3c5.png">
