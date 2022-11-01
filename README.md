@@ -43,7 +43,6 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
  
 ## :hammer: 기능 설명 
  - ## APP
-     - ### Step by Step
      - APP 첫 화면 - 앱을 설치한 날짜를 알려주는 문구와 간부의 확인을 얻은 사진을 서버에서 다운로드 받을 수 있는 버튼, 앱을 활성화 하고 비활성화 하는 스위치, 그리고 기기의 ID를 보여주는 문구 등이 있습니다. 
  
     <img width="250" alt="Screen Shot 2022-11-02 at 7 25 49 AM" src="https://user-images.githubusercontent.com/60809681/199353739-f4351837-ae8a-40bb-84dd-9e00f6bd2261.png">
@@ -62,9 +61,9 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
 
  
 
-     - ### App 기능들
-    <img width="800" alt="Screen Shot 2022-10-31 at 1 04 38 AM" src="https://user-images.githubusercontent.com/60809681/198888840-beff93a3-102b-4530-958d-cbdf551ad611.png">
-    <img width="800" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
+     - App 기능들
+    <img width="600" alt="Screen Shot 2022-10-31 at 1 04 38 AM" src="https://user-images.githubusercontent.com/60809681/198888840-beff93a3-102b-4530-958d-cbdf551ad611.png">
+    <img width="600" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
 
  - ## WEB
      - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 03 AM" src="https://user-images.githubusercontent.com/60809681/198888980-a42edb4f-ec45-4121-af9a-6817d92ef3c5.png">
