@@ -1,6 +1,6 @@
 <h1 align="center"> 촘촘한 보안망, Spyder <h1>
 <p align="center">
-![Spyder_Gif](https://user-images.githubusercontent.com/60809681/199347082-f33599b5-4c8b-4dde-83b3-b513b183b834.gif)
+![gif](https://user-images.githubusercontent.com/60809681/199347082-f33599b5-4c8b-4dde-83b3-b513b183b834.gif)
 </p>
  
 
@@ -38,6 +38,9 @@ Spyder은 기존 국방모바일보안 앱을 보완한 솔루션으로, 크게 
  
 처음 입대하거나 휴가에서 복귀하는 장병들은 Spyder을 활성화 시킴으로서 휴대폰 안에 저장된 사진들을 빠르게 분석해 군 기밀 유출을 차단합니다. 기존 보안 앱과 달리 카메라 사용이 가능하기 때문에 향상된 업무 효율성과 신속한 상황 보고가 가능하고, 관리자 모니터링 웹페이지를 통해 부대 내에 있는 휴대폰들의 Spyder App이 켜져 있는지 실시간으로 보여줌으로서 강력한 보안성을 자랑합니다.
 
+
+## 시연 영상
+https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-bc30-a665b2035fdd.mp4
  
  
 ## :hammer: 기능 설명 
