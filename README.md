@@ -1,6 +1,7 @@
-# 촘촘한 보안망, Spyder
-<img width="244" alt="spyderLogo" src="https://user-images.githubusercontent.com/60809681/198888652-c4a7a945-79b5-418e-bd7c-43118678cfad.png">
-
+<h1 align="center"> 촘촘한 보안망, Spyder <h1>
+<p align="center">
+![Spyder_Gif_AdobeExpress](https://user-images.githubusercontent.com/60809681/199346362-5bab8455-6d2c-479b-81a1-49fbe804463f.gif)
+</p>
 
 ## 프로젝트 소개
 - Spyder는 기존 국방모바일보안 앱을 보완한 솔루션으로, 머신러닝을 이용한 군장병 기밀 유출 보안 솔루션입니다. 휴대폰 안에 저장된 사진들의 GPS 데이터를 검사하여 부대 내에서 찍은 미디어를 감지하고 Spyder Web에 업로드 시킵니다. 감지된 사진들은 모바일 기기에서 즉시 삭제됩니다. Spyder Web에 업로드 된 후, 감지된 사진들은 1차적 OpenCV 머신러닝 검증과 2차적 간부의 수동 확인 후 병사의 휴대폰에서 다시 원본 파일의 다운로드가 가능합니다. 
