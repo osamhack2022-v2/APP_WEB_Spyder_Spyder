@@ -1,8 +1,6 @@
-<h1 align="center"> 촘촘한 보안망, Spyder <h1>
+<h1> 촘촘한 보안망, Spyder <h1>
  
-<p align="center">
 ![gif](https://user-images.githubusercontent.com/60809681/199347082-f33599b5-4c8b-4dde-83b3-b513b183b834.gif)
-</p>
  
 
 ##  :page_facing_up: 목차
@@ -14,9 +12,8 @@
  - 5.[컴퓨터 구성 / 필수 조건 안내](#earth_asia-컴퓨터-구성--필수-조건-안내-prerequisites)
  - 6.[기술 스택](#computer-기술-스택-technique-used)
  - 7.[설치 안내](#inbox_tray-설치-안내-installation-process)
- - 8.[기대 효과 및 전망]
- - 9.[팀원 정보](#two_men_holding_hands-팀-정보-team-information)
- - 10.[저작권 및 사용권 정보](#clipboard-저작권-및-사용권-정보-copyleft--end-user-license)
+ - 8.[팀원 정보](#two_men_holding_hands-팀-정보-team-information)
+ - 9.[저작권 및 사용권 정보](#clipboard-저작권-및-사용권-정보-copyleft--end-user-license)
 
 
 ## 개요 Abstract
@@ -61,7 +58,7 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
    
      - APP 비활성화 - 비활성화 하는 즉시 간부의 웹으로 확인이 가능합니다.
  
-    <img width="422" alt="Screen Shot 2022-11-02 at 7 41 08 AM" src="https://user-images.githubusercontent.com/60809681/199355801-357dc15a-89b1-4728-a0c1-56cd71cf34f9.png">
+    <img width="250" alt="Screen Shot 2022-11-02 at 7 41 08 AM" src="https://user-images.githubusercontent.com/60809681/199355801-357dc15a-89b1-4728-a0c1-56cd71cf34f9.png">
 
  
 
