@@ -8,9 +8,9 @@
 
 ##  :page_facing_up: 목차
 
-1. [개요](개요-abstract)
-2. [소개](소개-introduction)
-3. [시연 영상](시연-영상)
+1. [개요](#개요-Abstract)
+2. [소개](#소개-Introduction)
+3. [시연 영상](#시연-영상)
 4. [기능 설명](#hammer-기능-설명)
 5. [컴퓨터 구성 / 필수 조건 안내](#earth_asia-컴퓨터-구성--필수-조건-안내-prerequisites)
 6. [기술 스택](#computer-기술-스택-technique-used)
