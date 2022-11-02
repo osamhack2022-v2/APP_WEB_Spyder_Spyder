@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> Spyder </h1>
+  <img width="180" alt="Screen Shot 2022-11-02 at 11 13 57 AM" src="https://user-images.githubusercontent.com/60809681/199389756-5b85cce3-f571-48ad-b741-3233236efc81.png">
 </p>
 
 <p align="center">
@@ -45,29 +45,39 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
  
 ## :hammer: 기능 설명 
  - ## APP
-     - APP 첫 화면 - 앱을 설치한 날짜를 알려주는 문구와 간부의 확인을 얻은 사진을 서버에서 다운로드 받을 수 있는 버튼, 앱을 활성화 하고 비활성화 하는 스위치, 그리고 기기의 ID를 보여주는 문구 등이 있습니다. 
- 
+  - APP 첫 화면 - 앱을 설치한 날짜를 알려주는 문구와 간부의 확인을 얻은 사진을 서버에서 다운로드 받을 수 있는 버튼, 앱을 활성화 하고 비활성화 하는 스위치, 그리고 기기의 ID를 보여주는 문구 등이 있습니다. 
+ <p align="center">
     <img width="250" alt="Screen Shot 2022-11-02 at 7 25 49 AM" src="https://user-images.githubusercontent.com/60809681/199353739-f4351837-ae8a-40bb-84dd-9e00f6bd2261.png">
- 
-     - APP GPS 사용 동의 - 스파이더는 사진 및 영상의 gps 정보를 사용하기 때문에 유저 gps를 상시 사용하는 동의를 얻습니다.
- 
+
+
+   - APP GPS 사용 동의 - 스파이더는 사진 및 영상의 gps 정보를 사용하기 때문에 유저 gps를 상시 사용하는 동의를 얻습니다.
+ <p align="center">
     <img width="250" alt="Screen Shot 2022-11-02 at 7 32 49 AM" src="https://user-images.githubusercontent.com/60809681/199354585-c77830b6-437a-4b1c-a181-998172f060c4.png">
+ </p>
  
-     - APP 활성화 - 장병들은 부대 안에 들어가는 순간 스위치를 활성화 시킵니다. 앱의 활성화는 간부도 즉시 웹 알람으로 확인이 가능하며, 스파이더를 활성화 하는 순간, 장병의 모바일 기기 안에 저장된 사진들은 사진의 gps 정보를 불러와 보안구역 내에서 찍은 사진들을 서버에 업로드 시키고 기기에서는 삭제됩니다. 이는 앱의 활성화 된 상태에서 찍힌 모든 사진과 비디오에 적용됩니다.
- 
+   - APP 활성화 - 장병들은 부대 안에 들어가는 순간 스위치를 활성화 시킵니다. 앱의 활성화는 간부도 즉시 웹 알람으로 확인이 가능하며, 스파이더를 활성화 하는 순간, 장병의 모바일 기기 안에 저장된 사진들은 사진의 gps 정보를 불러와 보안구역 내에서 찍은 사진들을 서버에 업로드 시키고 기기에서는 삭제됩니다. 이는 앱의 활성화 된 상태에서 찍힌 모든 사진과 비디오에 적용됩니다.
+ <p align="center">
     <img width="250" alt="Screen Shot 2022-11-02 at 7 36 05 AM" src="https://user-images.githubusercontent.com/60809681/199354989-e11e57cd-120c-4cb0-8c6b-168149bca870.png">
-    
-     - APP 다운로드 - Spyder WEB에서 간부의 확인이 된 사진은 APP에서 다운 받을 수 있습니다. 
-   
-     - APP 비활성화 - 비활성화 하는 즉시 간부의 웹으로 확인이 가능합니다.
+ </p>
  
+   - APP 다운로드 - Spyder WEB에서 간부의 확인이 된 사진은 APP에서 다운 받을 수 있습니다. 
+ <p align="center">
+    <img width="250" alt="Screen Shot 2022-11-02 at 12 30 06 PM" src="https://user-images.githubusercontent.com/60809681/199388888-c9d6173c-f1d9-4984-acd7-f1d4d3c12aa4.png">
+ </p>
+ 
+   - APP 비활성화 - 비활성화 하는 즉시 간부의 웹으로 확인이 가능합니다. 
+ <p align="center">
     <img width="250" alt="Screen Shot 2022-11-02 at 7 41 08 AM" src="https://user-images.githubusercontent.com/60809681/199355801-357dc15a-89b1-4728-a0c1-56cd71cf34f9.png">
+ </p>
 
-     - ### App 기능들
-    <img width="800" alt="Screen Shot 2022-10-31 at 1 04 38 AM" src="https://user-images.githubusercontent.com/60809681/198888840-beff93a3-102b-4530-958d-cbdf551ad611.png">
-    <img width="800" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
+   - ### App 기능들
+  <p align="center">
+   <img width="800" alt="Screen Shot 2022-10-31 at 1 04 38 AM" src="https://user-images.githubusercontent.com/60809681/198888840-beff93a3-102b-4530-958d-cbdf551ad611.png">
+  </p>
+  <p align="center">
+   <img width="800" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
+  </p>
 
- 
  
  - ## WEB
      - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 03 AM" src="https://user-images.githubusercontent.com/60809681/198888980-a42edb4f-ec45-4121-af9a-6817d92ef3c5.png">
@@ -170,6 +180,8 @@ $ python3 manage.py runserver 0.0.0.0:8080
 | :----: | :-------------------: | :------------: | :-------------------: |
 | 조용인 |  육군 17사단   | yongincho |    choyongin21@gmail.com    |
 | 김진 | 육군 수도군단 |  kimjin1425@naver.com   | kimjin1425@naver.com |
+
+- #### 멘토: 장기영 멘토님
 
 
 ## :clipboard: 저작권 및 사용권 정보 (Copyleft / End User License)
