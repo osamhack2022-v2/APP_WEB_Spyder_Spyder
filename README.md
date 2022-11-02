@@ -1,6 +1,5 @@
 <p align="center">
-  <img width="150" alt="spyderLogo" src="https://user-images.githubusercontent.com/60809681/199378251-5d5f16cf-5b16-4fdd-9e94-38544997c87b.png">
-  <h1 align="center"> Spyder <h1>
+  <img width="200" alt="Screen Shot 2022-11-02 at 11 13 57 AM" src="https://user-images.githubusercontent.com/60809681/199379386-6e17dccd-f0b4-45f4-ad10-2680f892cfb7.png">
 </p>
 
 <p align="center">
