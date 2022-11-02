@@ -15,7 +15,7 @@
 5. [컴퓨터 구성 / 필수 조건 안내](#earth_asia-컴퓨터-구성--필수-조건-안내-prerequisites)
 6. [기술 스택](#computer-기술-스택-technique-used)
 7. [설치 안내](#inbox_tray-설치-안내-installation-process)
-8. [기대효과 및 전망](#기대효과-및-전망)
+8. [기대효과 및 전망](#rocket-기대효과-및-전망)
 9. [팀원 정보](#two_men_holding_hands-팀-정보-team-information)
 10. [저작권 및 사용권 정보](#clipboard-저작권-및-사용권-정보-copyleft--end-user-license)
 
@@ -124,9 +124,9 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
 
 ## :earth_asia: 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 
-* <img width="30" height="30" alt="image_es6" src="https://user-images.githubusercontent.com/81582559/198014278-87725be1-b3cb-4d23-b097-e22d90e2bcab.jpg" /> ECMAScript 6 지원 브라우저 사용
-* <img width="30" alt="image_chrome" src="https://user-images.githubusercontent.com/81582559/198014428-799a5490-0fb3-43e2-a871-e8b56679fc8a.png" />Google Chrome 버젼 77 이상 (권장)
-* <img width="30" alt="image_andriod_Oreo" src="https://user-images.githubusercontent.com/81582559/198014556-9f54c0cf-acca-4ffb-a3a0-a93aafae5afb.png" /> Android 버전 8.0 (Oreo) 이상 (권장)
+* <img width="20" height="20" alt="image_es6" src="https://user-images.githubusercontent.com/81582559/198014278-87725be1-b3cb-4d23-b097-e22d90e2bcab.jpg" /> ECMAScript 6 지원 브라우저 사용
+* <img width="20" alt="image_chrome" src="https://user-images.githubusercontent.com/81582559/198014428-799a5490-0fb3-43e2-a871-e8b56679fc8a.png" />Google Chrome 버젼 77 이상 (권장)
+* <img width="20" alt="image_andriod_Oreo" src="https://user-images.githubusercontent.com/81582559/198014556-9f54c0cf-acca-4ffb-a3a0-a93aafae5afb.png" /> Android 버전 8.0 (Oreo) 이상 (권장)
 
 &nbsp;
 
@@ -213,7 +213,7 @@ $ python3 manage.py runserver 0.0.0.0:8080
 
 &nbsp;
 
-## 기대효과 및 전망
+## :rocket: 기대효과 및 전망
 
 #### 기대효과
 - **업무 효율성 증가**: 카메라의 안전한 사용을 통해 장병들의 업무 효율성과 속도가 증가할 수 있습니다.
@@ -238,7 +238,7 @@ $ python3 manage.py runserver 0.0.0.0:8080
 | 조용인 |  육군 17사단   | yongincho |    choyongin21@gmail.com    |
 | 김진 | 육군 수도군단 |  kimjin1425@naver.com   | kimjin1425@naver.com |
 
-- #### 멘토: 장기영 멘토님 
+- #### :man_teacher: 멘토: 장기영 멘토님 
 
 &nbsp;
 
