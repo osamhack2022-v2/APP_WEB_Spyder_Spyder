@@ -15,9 +15,11 @@
 5. [컴퓨터 구성 / 필수 조건 안내](#earth_asia-컴퓨터-구성--필수-조건-안내-prerequisites)
 6. [기술 스택](#computer-기술-스택-technique-used)
 7. [설치 안내](#inbox_tray-설치-안내-installation-process)
-8. [팀원 정보](#two_men_holding_hands-팀-정보-team-information)
-9. [저작권 및 사용권 정보](#clipboard-저작권-및-사용권-정보-copyleft--end-user-license)
+8. [기대효과 및 전망](#기대효과-및-전망)
+9. [팀원 정보](#two_men_holding_hands-팀-정보-team-information)
+10. [저작권 및 사용권 정보](#clipboard-저작권-및-사용권-정보-copyleft--end-user-license)
 
+&nbsp;
 
 ## 개요 Abstract
 
@@ -29,6 +31,7 @@
 
 국방의 보안을 위한 카메라 차단 보안 앱이 마련되어있지만, 카메라를 원천 차단하면 발생할 수 있는 불편함과 비콘이 있는 위병소로 직접 가서 앱을 활성화 하고 비활성화 해야 하는 비효율적인 방식, 그리고 앱의 정상작동 유무확인을 위해 간부들이 직접 일일이 병사들의 모바일 기기를 확인해야 하는 방식은 기존 솔루션을 *매우 불편한 앱*으로 만들고 있습니다. 그렇다면 이런 단점들을 보완하며 더 발전시킬 방법은 없을까요?
 
+&nbsp;
  
 ## 소개 Introduction
 
@@ -38,10 +41,12 @@ Spyder은 기존 국방모바일보안 앱을 보완한 솔루션으로, 크게 
  
 처음 입대하거나 휴가에서 복귀하는 장병들은 Spyder을 활성화 시킴으로서 휴대폰 안에 저장된 사진들을 빠르게 분석해 군 기밀 유출을 차단합니다. 기존 보안 앱과 달리 카메라 사용이 가능하기 때문에 향상된 업무 효율성과 신속한 상황 보고가 가능하고, 관리자 모니터링 웹페이지를 통해 부대 내에 있는 휴대폰들의 Spyder App이 켜져 있는지 실시간으로 보여줌으로서 강력한 보안성을 자랑합니다.
 
+&nbsp;
 
 ## 시연 영상
 https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-bc30-a665b2035fdd.mp4
- 
+
+&nbsp;
  
 ## :hammer: 기능 설명 
  - ## APP
@@ -73,11 +78,10 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
    - ### App 기능들
  <p align="center">
     <img width="800" alt="Screen Shot 2022-10-31 at 1 04 38 AM" src="https://user-images.githubusercontent.com/60809681/198888840-beff93a3-102b-4530-958d-cbdf551ad611.png">
- </p>
- <p align="center">
     <img width="800" alt="Screen Shot 2022-10-31 at 1 06 27 AM" src="https://user-images.githubusercontent.com/60809681/198888925-efefeeb8-3524-465e-8fdc-b6c39a229cba.png">
  </p>
 
+&nbsp;
  
  - ## WEB
  
@@ -107,13 +111,16 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
  </p>
  
    - ### Web 기능들
-     - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 03 AM" src="https://user-images.githubusercontent.com/60809681/198888980-a42edb4f-ec45-4121-af9a-6817d92ef3c5.png">
-     - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 29 AM" src="https://user-images.githubusercontent.com/60809681/198889003-8ffd1a74-d95a-4124-b8e3-7b7e06ef84f9.png">
-     - <img width="800" alt="Screen Shot 2022-10-31 at 1 07 43 AM" src="https://user-images.githubusercontent.com/60809681/198889021-fed51d73-974e-47f6-b8f4-c357da39beb5.png">
-     - <img width="800" alt="Screen Shot 2022-10-31 at 1 08 02 AM" src="https://user-images.githubusercontent.com/60809681/198889041-07802c67-fa91-439c-a10f-088f382b48b0.png">
-     - <img width="800" alt="Screen Shot 2022-10-31 at 1 14 40 AM" src="https://user-images.githubusercontent.com/60809681/198889359-fb498d1b-8f71-4278-a21b-597f3f95ae7d.png">
-     - <img width="800" alt="Screen Shot 2022-10-31 at 1 15 01 AM" src="https://user-images.githubusercontent.com/60809681/198889374-b3ecfd9b-73cf-4e03-b580-f54885b161ab.png">
+ <p align="center">
+     <img width="800" alt="Screen Shot 2022-10-31 at 1 07 03 AM" src="https://user-images.githubusercontent.com/60809681/198888980-a42edb4f-ec45-4121-af9a-6817d92ef3c5.png">
+     <img width="800" alt="Screen Shot 2022-10-31 at 1 07 29 AM" src="https://user-images.githubusercontent.com/60809681/198889003-8ffd1a74-d95a-4124-b8e3-7b7e06ef84f9.png">
+     <img width="800" alt="Screen Shot 2022-10-31 at 1 07 43 AM" src="https://user-images.githubusercontent.com/60809681/198889021-fed51d73-974e-47f6-b8f4-c357da39beb5.png">
+     <img width="800" alt="Screen Shot 2022-10-31 at 1 08 02 AM" src="https://user-images.githubusercontent.com/60809681/198889041-07802c67-fa91-439c-a10f-088f382b48b0.png">
+     <img width="800" alt="Screen Shot 2022-10-31 at 1 14 40 AM" src="https://user-images.githubusercontent.com/60809681/198889359-fb498d1b-8f71-4278-a21b-597f3f95ae7d.png">
+     <img width="800" alt="Screen Shot 2022-10-31 at 1 15 01 AM" src="https://user-images.githubusercontent.com/60809681/198889374-b3ecfd9b-73cf-4e03-b580-f54885b161ab.png">
+ </p>
 
+&nbsp;
 
 ## :earth_asia: 컴퓨터 구성 / 필수 조건 안내 (Prerequisites)
 
@@ -121,6 +128,7 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
 * <img width="30" alt="image_chrome" src="https://user-images.githubusercontent.com/81582559/198014428-799a5490-0fb3-43e2-a871-e8b56679fc8a.png" />Google Chrome 버젼 77 이상 (권장)
 * <img width="30" alt="image_andriod_Oreo" src="https://user-images.githubusercontent.com/81582559/198014556-9f54c0cf-acca-4ffb-a3a0-a93aafae5afb.png" /> Android 버전 8.0 (Oreo) 이상 (권장)
 
+&nbsp;
 
 ## :computer: 기술 스택 (Technique Used) 
 
@@ -133,6 +141,9 @@ Below is the specification for technologies used in Spyder:
 * [ IDE ] - Android Studio (App), Visual Studio Code (Web)
 * [ Open-source Libraries ] - OpenCV (for image processing), EXIF Analysis (for image analysis), Django (rest_framework) 
 
+[![My Skills](https://skills.thijs.gg/icons?i=py,java,postgres,js,html,css,md)](https://skills.thijs.gg)
+
+&nbsp;
 
 ## :inbox_tray: 설치 안내 (Installation Process)
 
@@ -199,7 +210,26 @@ Collect static and Run server (port: 8080):
 $ python3 manage.py collectstatic
 $ python3 manage.py runserver 0.0.0.0:8080
 ```
- 
+
+&nbsp;
+
+## 기대효과 및 전망
+
+#### 기대효과
+- **업무 효율성 증가**: 카메라의 안전한 사용을 통해 장병들의 업무 효율성과 속도가 증가할 수 있습니다.
+- **강력한 보안**: 간부의 실시간 WEB 모니터링을 통해 보안 유출을 방지하고 더욱 강력한 보안성을 자랑합니다.
+- **신속한 상황 보고**: 군 부대 내 병영생활 문제에 대한 신속한 상황보고가 가능합니다.
+
+#### 전망
+- **데이터 수집 ML 강화**: 지속된 정보 및 데이터 수집으로 스파이더의 사진 분석 머신러닝을 강화할 수 있습니다.
+- **AI 기밀유출 탐지**: 축적된 데이터로 학습 시킨 AI를 이용해 기밀유출 사진을 탐지하여 국방 보안을 지킬 수 있습니다.
+- **보안 사례 통계분석**: 지속된 정보와 데이터 수집을 활용한 보안 사고 및 사례의 통계 분석으로 보안 사고를 예방할 수 있습니다.
+
+<p align="center">
+  <img width="900" src="https://user-images.githubusercontent.com/60809681/199394662-dfe6c8b8-7a16-4bd9-908f-1e761868e07f.gif" alt="animated" />
+</p>
+
+&nbsp;
  
 ## :two_men_holding_hands: 팀 정보 (Team Information)
 
@@ -208,8 +238,9 @@ $ python3 manage.py runserver 0.0.0.0:8080
 | 조용인 |  육군 17사단   | yongincho |    choyongin21@gmail.com    |
 | 김진 | 육군 수도군단 |  kimjin1425@naver.com   | kimjin1425@naver.com |
 
-- #### 멘토: 장기영 멘토님
+- #### 멘토: 장기영 멘토님 
 
+&nbsp;
 
 ## :clipboard: 저작권 및 사용권 정보 (Copyleft / End User License)
  * [MIT](https://github.com/osam2020-WEB/Sample-ProjectName-TeamName/blob/master/license.md)
