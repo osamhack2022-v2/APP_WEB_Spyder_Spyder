@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="180" alt="Screen Shot 2022-11-02 at 11 13 57 AM" src="https://user-images.githubusercontent.com/60809681/199389756-5b85cce3-f571-48ad-b741-3233236efc81.png">
+  <h1 align="center"> Spyder </h1>
 </p>
 
 <p align="center">
