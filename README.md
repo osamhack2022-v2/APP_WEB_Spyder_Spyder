@@ -1,5 +1,5 @@
 <p align="center">
-  <h1 align="center"> Spyder </h1>
+  <img width="330" alt="image" src="https://user-images.githubusercontent.com/60809681/199407647-42e77a5d-22b0-41c1-8fdb-af2f1b774a76.png">
 </p>
 
 <p align="center">
