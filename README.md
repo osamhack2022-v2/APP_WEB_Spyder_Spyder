@@ -8,9 +8,9 @@
 
 ##  :page_facing_up: 목차
 
-1. [개요](#개요-Abstract)
-2. [소개](#소개-Introduction)
-3. [시연 영상](#시연-영상)
+1. [개요](#pushpin-개요-abstract)
+2. [소개](#black_nib-소개-introduction)
+3. [시연 영상](#movie_camera-시연-영상)
 4. [기능 설명](#hammer-기능-설명)
 5. [컴퓨터 구성 / 필수 조건 안내](#earth_asia-컴퓨터-구성--필수-조건-안내-prerequisites)
 6. [기술 스택](#computer-기술-스택-technique-used)
@@ -21,7 +21,7 @@
 
 &nbsp;
 
-## 개요 Abstract
+## :pushpin: 개요 Abstract
 
 > Spyder는 머신러닝을 이용한 군장병 기밀 유출 보안 솔루션입니다.
 
@@ -33,7 +33,7 @@
 
 &nbsp;
  
-## 소개 Introduction
+## :black_nib: 소개 Introduction
 
 머신러닝을 이용한 군장병 기밀 유출 보안 솔루션, Spyder입니다.
 
@@ -43,7 +43,7 @@ Spyder은 기존 국방모바일보안 앱을 보완한 솔루션으로, 크게 
 
 &nbsp;
 
-## 시연 영상
+## :movie_camera: 시연 영상
 https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-bc30-a665b2035fdd.mp4
 
 &nbsp;
