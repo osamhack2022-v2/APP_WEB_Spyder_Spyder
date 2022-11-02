@@ -94,7 +94,7 @@ Below is the specification for technologies used in Spyder:
 * [ Language ] - Java (App), Python 3.8 (Web BackEnd), Html, Javascript, CSS (Web FrontEnd)
 * [ Framework ] - Django (BackEnd), Bootstrap (FrontEnd)
 * [ IDE ] - Android Studio (App), Visual Studio Code (Web)
-* [ Open-source Libraries ] - OpenCV (for face identification), EXIF Analysis (for image analysis), Django (rest_framework) 
+* [ Open-source Libraries ] - OpenCV (for image processing), EXIF Analysis (for image analysis), Django (rest_framework) 
 
 
 ## :inbox_tray: 설치 안내 (Installation Process)
