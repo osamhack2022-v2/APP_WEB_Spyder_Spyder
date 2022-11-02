@@ -1,19 +1,23 @@
-<h1> 촘촘한 보안망, Spyder <h1>
- 
-![gif](https://user-images.githubusercontent.com/60809681/199347082-f33599b5-4c8b-4dde-83b3-b513b183b834.gif)
- 
+<p align="center">
+  <img width="150" alt="spyderLogo" src="https://user-images.githubusercontent.com/60809681/199378251-5d5f16cf-5b16-4fdd-9e94-38544997c87b.png">
+  <h1 align="center"> Spyder <h1>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/60809681/199347082-f33599b5-4c8b-4dde-83b3-b513b183b834.gif" alt="animated" />
+</p>
 
 ##  :page_facing_up: 목차
 
- - 1.[개요](개요-Abstract)
- - 2.[소개](소개-Introduction)
- - 3.[시연 영상](시연-영상)
- - 4.[기능 설명](#hammer-기능-설명)
- - 5.[컴퓨터 구성 / 필수 조건 안내](#earth_asia-컴퓨터-구성--필수-조건-안내-prerequisites)
- - 6.[기술 스택](#computer-기술-스택-technique-used)
- - 7.[설치 안내](#inbox_tray-설치-안내-installation-process)
- - 8.[팀원 정보](#two_men_holding_hands-팀-정보-team-information)
- - 9.[저작권 및 사용권 정보](#clipboard-저작권-및-사용권-정보-copyleft--end-user-license)
+1. [개요](개요-Abstract)
+2. [소개](소개-Introduction)
+3. [시연 영상](시연-영상)
+4. [기능 설명](#hammer-기능-설명)
+5. [컴퓨터 구성 / 필수 조건 안내](#earth_asia-컴퓨터-구성--필수-조건-안내-prerequisites)
+6. [기술 스택](#computer-기술-스택-technique-used)
+7. [설치 안내](#inbox_tray-설치-안내-installation-process)
+8. [팀원 정보](#two_men_holding_hands-팀-정보-team-information)
+9. [저작권 및 사용권 정보](#clipboard-저작권-및-사용권-정보-copyleft--end-user-license)
 
 
 ## 개요 Abstract
