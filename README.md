@@ -7,10 +7,12 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/osamhack2022-v2/APP_WEB_Spyder_Spyder/files/9945653/Spyder.Hackathon.ppt.pdf">
-    <img width="200" alt="image" src="https://user-images.githubusercontent.com/60809681/200166676-da5dd7cd-fcd3-450c-9cf2-3a21bf618f01.png">
+  <a href="#movie_camera-시연-영상">
+    <img width="200" alt="image" src="https://user-images.githubusercontent.com/60809681/200166676-da5dd7cd-fcd3-450c-9cf2-3a21bf618f01.png"> </b>
   </a>
-  <img width="200" alt="image" src="https://user-images.githubusercontent.com/60809681/200166610-206d83f5-5b7d-483c-9fba-5336e9712faf.png">
+  <a href="https://github.com/osamhack2022-v2/APP_WEB_Spyder_Spyder/blob/main/APP(Android)/SpyderApp/Spyder%20Hackathon%20ppt.pdf">
+    <img width="200" alt="image" src="https://user-images.githubusercontent.com/60809681/200166610-206d83f5-5b7d-483c-9fba-5336e9712faf.png">
+  </a>
 </p>
 
 ##  :page_facing_up: 목차
