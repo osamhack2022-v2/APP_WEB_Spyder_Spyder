@@ -6,6 +6,13 @@
   <img src="https://user-images.githubusercontent.com/60809681/199347082-f33599b5-4c8b-4dde-83b3-b513b183b834.gif" alt="animated" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/osamhack2022-v2/APP_WEB_Spyder_Spyder/files/9945653/Spyder.Hackathon.ppt.pdf">
+    <img width="200" alt="image" src="https://user-images.githubusercontent.com/60809681/200166676-da5dd7cd-fcd3-450c-9cf2-3a21bf618f01.png">
+  </a>
+  <img width="200" alt="image" src="https://user-images.githubusercontent.com/60809681/200166610-206d83f5-5b7d-483c-9fba-5336e9712faf.png">
+</p>
+
 ##  :page_facing_up: 목차
 
 > [:pushpin: 개요](#pushpin-개요-abstract)
@@ -148,7 +155,7 @@ Below is the specification for technologies used in Spyder:
 * [ Language ] - Java (App), Python 3.8 (Web BackEnd), Html, Javascript, CSS (Web FrontEnd)
 * [ Framework ] - Django (BackEnd), Bootstrap (FrontEnd)
 * [ IDE ] - Android Studio (App), Visual Studio Code (Web)
-* [ Open-source Libraries ] - OpenCV (for image processing), EXIF Analysis (for image analysis), Django (rest_framework) 
+* [ Open-source Libraries ] - OpenCV (Image processing), EXIF Analysis (Image analysis)
 
 [![My Skills](https://skills.thijs.gg/icons?i=py,java,postgres,js,html,css,md)](https://skills.thijs.gg)
 
