@@ -144,7 +144,7 @@ https://user-images.githubusercontent.com/60809681/199351144-b570d4dd-5a10-4217-
 Below is the specification for technologies used in Spyder:
 
 * [ Infrastructure] - AWS (Amazon Web Service) - EC2, S3 (Cloud Storage)
-* [ Database ] - Postgresql
+* [ Database ] - PostgreSQL
 * [ Language ] - Java (App), Python 3.8 (Web BackEnd), Html, Javascript, CSS (Web FrontEnd)
 * [ Framework ] - Django (BackEnd), Bootstrap (FrontEnd)
 * [ IDE ] - Android Studio (App), Visual Studio Code (Web)
